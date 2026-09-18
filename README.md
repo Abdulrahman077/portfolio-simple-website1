@@ -25,7 +25,7 @@ I created this project as part of my **Full-Stack Development learning journey**
 
 ## 🔗 Live Demo
 
-[View My Portfolio](https://abdulrahman077.github.io/Abdul-Portfolio/)
+[View My Portfolio](https://abdulrahman077.github.io/portfolio-simple-website1/)
 
 ## 📚 What I Learned
 
